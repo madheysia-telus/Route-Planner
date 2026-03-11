@@ -1,0 +1,4 @@
+project_id = "dhohwddmeivvprunbcit"
+
+[functions.calculate-route]
+verify_jwt = false
